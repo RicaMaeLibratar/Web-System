@@ -1,0 +1,22 @@
+		
+body{
+	background-color: #EAF6F6;
+}
+
+h1{
+	color:#1746A2;
+	background-color: red;
+}
+
+h3{
+	color: #22A39F;
+	background-color: brown;
+}
+
+p{
+	color: red;
+}
+
+.profile {
+	border-radius: 50%;
+  }
